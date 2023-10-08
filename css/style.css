@@ -18,8 +18,8 @@ padding-top: 250px;
         image-resolution: 300*200x;
         display: inline-block;
         position: absolute;
-        top: 20px;
-        right:140px;
+        top: 200px;
+        left:240px;
       height: 160px;
      }
      .bot-cloud{
@@ -33,10 +33,11 @@ padding-top: 250px;
         .font1{
          font-family: 'Dancing Script', cursive;
          font-size: 90px;
-         padding-bottom: 14px;
+         padding-bottom: 30px;
          color: rgb(103, 155, 155);
          margin-top: 20px;
-         
+         position: relative;
+         bottom: 60px;
       } 
       .fontp{
          padding: 20px;
@@ -44,15 +45,15 @@ padding-top: 250px;
          font-size: 40px;
          line-height: 0px;
          color: rgb(115, 148, 148);
-         padding-top: 0px;
-         margin-bottom: 33px;
+         position: relative;
+         bottom: 90px;
          font-weight: normal;
       }
 .mountain-1{
    width: 400px;
    position: absolute;
    top: 450px;
-  right: 700px; 
+  right: 800px; 
 }
 .middle-container{
 text-align: center;
